@@ -1,0 +1,57 @@
+h1 {
+  text-align: center;
+}
+
+.inline{
+  display: inline;
+  position: relative;
+  bottom: 18px;
+  
+  
+}
+.stardiv{
+  float: right;
+}
+.stardiv h3{
+  display: inline;
+  position: relative;
+  bottom: 5px;
+}
+.star{
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  flex-shrink: 0;
+  margin-top: 18px;
+  
+}
+li{
+  
+  list-style-type: none;
+  padding: 20px;
+  border-top:solid rgb(179, 176, 182);
+  
+}
+
+
+
+
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  margin-right: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 50%;
+  flex-shrink: 0;
+  display: inline;
+}
+.bottom{
+  text-align: center;
+  font-size: x-large;
+
+}
